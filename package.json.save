@@ -1,10 +1,10 @@
 {
-  "name": "algorithms-playground",
+  "name": "algorithmes-playground",
   "version": "1.0.0",
-  "description": "Repo for algorithms and data structures",
+  "description": "",
   "author": "",
   "license": "ISC",
-  "keywords": ["algorithms", "javascript", "leetcode", "puzzles"],
+  "keywords": [],
   "scripts": {
     "eslint": "npx eslint .",
     "eslint:fix": "npx eslint . --fix",
@@ -17,4 +17,4 @@
     "eslint": "^9.11.1",
     "typescript": "^5.6.2"
   }
-}
+}"keywords": ["algorithms", "javascript", "leetcode", "pazzles"],
